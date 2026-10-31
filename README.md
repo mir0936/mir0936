@@ -1,6 +1,6 @@
-### Hi there, I'm Mir Nabeel,
+### Hi , I'm Mir Nabeel
 
-I am a physics student with a deep passion for fundamental theoretical physics, astrophysics, and artificial intelligence. My work spans from exploring core theoretical frameworks to scientific machine learning, bridging analytical physics with neural network design and high-performance computational methods.
+I am a physics student with a deep passion for fundamental theoretical physics, astrophysics, and artificial intelligence. My work spans from exploring core theoretical frameworks to scientific machine learning—bridging analytical physics with neural network design and high-performance computational methods.
 
 ---
 
@@ -20,14 +20,15 @@ I am a physics student with a deep passion for fundamental theoretical physics, 
 
 ---
 
-### Some of my projects
+### Some of my Projects
 
-* **[CERN Higgs Boson Classification](https://github.com/mir0936/higgs-boson-dnn):** A PyTorch Deep Neural Network built to isolate $H \rightarrow \tau \tau$ decay signals from standard background noise using ATLAS kinematic data.
-* **Sun-Earth-Jupiter 3-Body Simulation:** Engineered a computational physics model in Fortran to simulate three-body gravitational interactions, analyzing Earth's orbital stability under varying Jupiter mass ratios.
-* **Astrophysical Signal Processing:** Developing machine learning pipelines for time-series analysis and signal classification in multi-messenger astronomy.
+* **[CERN Higgs Boson Classification](https://github.com/mir0936/higgs-boson-dnn):** A PyTorch Deep Neural Network built to isolate decay signals from standard background noise using ATLAS kinematic data.
+* **[Gravitational Wave Parameter Estimation](https://github.com/mir0936/gw-parameter-estimation):** Applying advanced signal processing, matched filtering, and probability statistics to noisy strain data to extract black hole masses and spins based on General Relativity waveforms.
+* **[Exoplanet Transit Detection](https://github.com/mir0936/exoplanet-ai):** Processing observational 1D time-series light curves to identify planetary transit eclipses using machine learning and data processing techniques.
 
 ---
 
+
 ###  Connect
 * **GitHub:** [github.com/mir0936](https://github.com/mir0936)
-* **Gmail:** [mir093645@gmail.com]
+* **Gmail:** mir093645@gmail.com
